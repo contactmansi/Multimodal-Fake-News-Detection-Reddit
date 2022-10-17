@@ -8,4 +8,4 @@ Original file is located at
 """
 
 username='contactmansi'
-git_token='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'
+git_token='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'
